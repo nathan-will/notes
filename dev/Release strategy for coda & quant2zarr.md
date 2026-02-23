@@ -1,0 +1,6 @@
+- Key assumptions:
+	- quant2zarr will only have one internal python dependency, which to begin with is coda
+	- The rest of the files (which are they?) will need to be built into containers when there is a merge into main
+		- These will get the latest tag
+	- When a release is tagged on Q2Z it will be tagged with said release tag
+	- 
