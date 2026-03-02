@@ -28,3 +28,7 @@ Can buy buildings
 - Druid
 - 
 
+### Random ideas
+living objects, trees can be awakened and will move on their own from time to time
+later the player can order them to move
+
